@@ -1,0 +1,11 @@
+{
+  "name": "mapty-activitytracker",
+  "version": "1.0.0",
+  "description": "Welcome to Mapty-ActivityTracker! This web app allows you to effortlessly track your running and cycling activities on an interactive map. Whether you're a fitness enthusiast or a recreational athlete, Mapty-ActivityTracker is designed to enhance your tracking experience",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul J",
+  "license": "MIT"
+}
