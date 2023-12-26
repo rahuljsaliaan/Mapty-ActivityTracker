@@ -25,6 +25,7 @@ Check out the live demo of the project [🌟 <span style="font-weight: bold; col
 - HTML5
 - CSS3
 - JavaScript
+- Leaflet
 
 ---
 
